@@ -62,9 +62,9 @@ For example
 ```python
 from eLNMscore.test import main
 
-main(input-directory = 'Input',
-     output-directory = 'Output',
-     model-file-path = 'data/checkpoint/eLNM.pth')
+main(input_directory = 'Input',
+     output_directory = 'Output',
+     model_file_path = 'data/checkpoint/eLNM.pth')
 
 ```
 
@@ -81,13 +81,13 @@ eLNMscore-test --input-directory Input --output-directory Output --model-file-pa
 ```
 Argument Options:
 
-  --input-directory      input directory
-  --output-directory     output directory
-  --output-file-format   output file format
-  --stride-rate          overlapping rate in prediction, the bigger, the more accurate but slower
-  --downsample-factor    downsampling factor for saving images
-  --processing-level     downsampling factor
-  --batch-size           batch size for inference
+  --input_directory      input directory
+  --output_directory     output directory
+  --output_file_format   output file format
+  --stride_rate          overlapping rate in prediction, the bigger, the more accurate but slower
+  --downsample_factor    downsampling factor for saving images
+  --processing_level     downsampling factor
+  --batch_size           batch size for inference
 ```
 
 ### 3. Results
