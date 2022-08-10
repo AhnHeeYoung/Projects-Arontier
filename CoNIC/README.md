@@ -23,7 +23,7 @@ CoNIC Challenge 참가
 
 ### 4. 결과물 
 - **대회 전체 26팀 중 6등**
-- **학회 논문([pdf](https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Paper%20edited.pdf)) 게재(학회명 : International Symposium on Biomedical Imaging (ISBI) 2022![image](https://user-images.githubusercontent.com/78080866/183863710-35cee02b-473a-4a4f-a5c6-a092b2ada443.png)
+- **학회 논문([pdf](https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Paper%20edited.pdf)) 게재(학회명 : International Symposium on Biomedical Imaging (ISBI) 2022
 , 1st Author)**
 
 | LeaderBoard | Paper |
