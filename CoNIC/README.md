@@ -7,7 +7,7 @@
 <br />
 
 ### 1. 목적
-Cell Segmentation 알고리즘 개발을 위한 사전 경험으로서 CoNIC Challenge 참가
+Cell Segmentation 알고리즘 개발을 위한 사전 경험으로서 [CoNIC Challenge](https://conic-challenge.grand-challenge.org/) 참가
 
 <br />
   
@@ -22,7 +22,7 @@ Cell Segmentation 알고리즘 개발을 위한 사전 경험으로서 CoNIC Cha
 <br />
 
 ### 4. 결과물 
-- **대회 전체 26팀 중 6등**
+- **대회 전체 26팀 중 [6등](https://conic-challenge.grand-challenge.org/evaluation/segmentation-and-classification-final-test/leaderboard/)**
 - **학회 논문([pdf](https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Paper%20edited.pdf)) 게재**
 **(학회명 : International Symposium on Biomedical Imaging (ISBI) 2022 , 1st Author)**
 
