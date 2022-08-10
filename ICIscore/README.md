@@ -2,9 +2,10 @@
 
 <br />
 
-**1. Project 진행 간 담당 업무** : 삼성서울병원으로부터 받은 CD8, PD-L1 염색된 Whole-Slide-Image(WSI)로 부터 Positive, Negative Cell Detection 알고리즘 개발   
-- 2. Project 진행 간 담당 업무 : Project 초기 부터 삼성서울병원과의 협업을 통한 Cell Detection 알고리즘 개발   
-
+**1. Project 목적** : 삼성서울병원으로부터 받은 CD8, PD-L1 염색된 Whole-Slide-Image(WSI)로 부터 Positive, Negative Cell Detection 알고리즘 개발   
+**2. Project 진행 간 담당 업무** : 데이터 추출, 정제 및 알고리즘 연구 및 개발 전반 업무 담당   
+**3. Project 기간** : 2021.09 ~ ing   
+**4. Project 결과물** : 2021.09 ~ ing   
 
 
 
