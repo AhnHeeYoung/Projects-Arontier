@@ -1,106 +1,28 @@
-# eLNMscore
+# Project Name : TMEscore (Tumor MicroEnvironment score)
 
-## Requirements
+### 0. 개요
+(주)아론티어의 정밀진단팀과 삼성서울병원이 전담하는 [PHD Project](https://github.com/AhnHeeYoung/Projects-Arontier/blob/master/ICIscore/doc/PHD.PNG) (Precision Histopathology Diagnosis Project) 중 하나의 sub project   
 
-eLNMscore requires `Python 3.8` to run. Also you should have an access to this repository to install `eLNMscore` package.
+<br />
 
-## Installation
+### 1. 목적
+삼성서울병원으로부터 받은 CK, DESMIN, LCA 염색된 각각의 Whole-Slide-Image(WSI)로 부터 **Image Registration & GAN 을 이용한 WSI 생성 알고리즘 개발** , **TSR (Tumor Stroma Ratio) & TIL (Tumor infiltrating lymphocytes) 계측** 및 **환자에 대한 위험도(High & Low) 예측**
 
-eLNMscore is protected by Arontier Proprietary License. 
-Only authorized users can access `eLNMscore` package.
-If you are interested, please send an email to `hyahn@arontier.co`.
+<br />
+  
+### 2. 기간
+2021.09 ~ ing
 
-Assuming you have an access to this repository,
-you can install `eLNMscore` package by using pip:
+<br />
 
-```bash
-pip install git+ssh://git@github.com/arontier/eLNMscore.git   
-or   
-python setup.py develop
-```
+### 3. 담당 업무
+**데이터 추출, 정제 및 알고리즘 연구 및 개발 전반 업무 담당**   
 
-If you want to install a specific version:
+<br />
 
-```bash
-pip install git+ssh://git@github.com/arontier/eLNMscore.git@version
-```
-
-where `version` above is something like `0.0.1`, well a *version*.
-
-All package dependencies will be resolved automatically.
-If you stuck with SSH key business, please read [https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account](https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account) to register your SSH key to GitHub.
-
-## Quickstart
-
-### 1. Data, Model Preparation
-To test-drive, you will need an input Gastric Cancer WSI and model files.   
-Model file is too big to upload here,   
-so you may want to request these files too when you ask for access to this repository.   
-
-Image format supported by `eLNMscore` is svs.
-
-After installing `eLNMscore`, make `Input` directories and place your image file under `Input` directory.   
-Put your model weight file, say `eLNM.pth` in the `data/checkpoint/` directories.   
-The folder structure should look like this:   
-
-```bash
-├── data
-│   ├── checkpoint
-│   │   ├── eLNM.pth
-├── eLNMscore
-│   ├── Input
-│   │   ├── eLNM(Sample).svs
-``` 
-
-### 2. Inference
-For inference, we support `1 types of inference : WSI(Whole Slide Image).`   
-For WSI inference, you need to prepare input svs files.
-
-#### 2-1. Using Library
-
-For example
-```python
-from eLNMscore.test import main
-
-main(input_directory = 'Input',
-     output_directory = 'Output',
-     model_file_path = 'data/checkpoint/eLNM.pth')
-
-```
-
-
-
-#### 2-2. Using Binary
-Run the following command to run `eLNMscore-test` for test:
-
-```bash
-eLNMscore-test --input_directory Input --output_directory Output --model_file_path './data/checkpoint/eLNM.pth'
-```
-
-
-```
-Argument Options:
-
-  --input_directory      input directory
-  --output_directory     output directory
-  --output_file_format   output file format
-  --stride_rate          overlapping rate in prediction, the bigger, the more accurate but slower
-  --downsample_factor    downsampling factor for saving images
-  --processing_level     downsampling factor
-  --batch_size           batch size for inference
-```
-
-### 3. Results
+### 4. 결과물 
+※논문 작성 예정   
 
 | Input | Output |
 |---|---|
 |![doc/Input.PNG](./doc/Input.PNG)|![./doc/Output.PNG](./doc/Output.PNG)|
-
-### 4. ETC
-#### 4-1. Inference Time, GPU Memory
-
-
-|  Sample   | Magnification | Width, Height | Batch size | GPU Memory (GB) | Processing Time |
-| :-------: | :-----------------: | :-----: | :------: | :------------: | :----: |
-|    [D21-18814 D](./doc/Input.PNG) | 20x |   (10002, 10004)    |   8    | 9.33 |  4.34 minutes |
-
