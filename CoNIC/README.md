@@ -2,7 +2,7 @@
 
 
 ### 0. 개요
-(주)아론티어의 정밀진단팀과 삼성서울병원의 미팅 간 Whole-Slide-Image(WSI) 로부터 **Cell Segmentation에 대한 알고리즘 개발 필요성 논의** 및 **이를 위한 Challenge 참가**
+(주)아론티어의 정밀진단팀과 삼성서울병원의 미팅 간 Whole-Slide-Image(WSI) 로부터 **Cell Segmentation 알고리즘 개발 필요성 논의** 및 **이를 위한 Challenge 참가**
 
 <br />
 
