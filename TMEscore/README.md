@@ -22,7 +22,7 @@
 ※논문 작성 예정   
 
 
-4-1. WSI
+**4-1. WSI**
 
 
 | Input(HE) | Output |
