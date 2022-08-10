@@ -74,7 +74,7 @@ main(input_directory = 'Input',
 Run the following command to run `eLNMscore-test` for test:
 
 ```bash
-eLNMscore-test --input-directory Input --output-directory Output --model-file-path './data/checkpoint/eLNM.pth'
+eLNMscore-test --input_directory Input --output_directory Output --model_file_path './data/checkpoint/eLNM.pth'
 ```
 
 
