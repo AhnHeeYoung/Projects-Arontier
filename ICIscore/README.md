@@ -1,7 +1,9 @@
 # Project Name : ICIscore (Immune Checkpoint Inhibitor score)
+
 <br />
-## 1. Project 진행 간 담당 업무 : Project 초기 부터 삼성서울병원과의 협업을 통한 Cell Detection 알고리즘 개발
-## 2. Project 진행 간 담당 업무 : Project 초기 부터 삼성서울병원과의 협업을 통한 Cell Detection 알고리즘 개발
+
+## 1. Project 진행 간 담당 업무 : Project 초기 부터 삼성서울병원과의 협업을 통한 Cell Detection 알고리즘 개발   
+## 2. Project 진행 간 담당 업무 : Project 초기 부터 삼성서울병원과의 협업을 통한 Cell Detection 알고리즘 개발   
 
 
 
