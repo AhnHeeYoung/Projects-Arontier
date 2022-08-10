@@ -1,4 +1,4 @@
-# Project Name : TMEscore (Tumor MicroEnvironment score)
+# Project Name : eLNMscore (early gastric cancer Lymph Node Metastasis score)
 
 ### 0. 개요
 (주)아론티어의 정밀진단팀과 삼성서울병원이 전담하는 [PHD Project](https://github.com/AhnHeeYoung/Projects-Arontier/blob/master/ICIscore/doc/PHD.PNG) (Precision Histopathology Diagnosis Project) 중 하나의 sub project   
@@ -6,7 +6,8 @@
 <br />
 
 ### 1. 목적
-삼성서울병원으로부터 받은 CK, DESMIN, LCA 염색된 각각의 Whole-Slide-Image(WSI)로 부터 **Image Registration & GAN 을 이용한 WSI 생성 알고리즘 개발** , **TSR (Tumor Stroma Ratio) & TIL (Tumor infiltrating lymphocytes) 계측** 및 **환자에 대한 위험도(High & Low) 예측**
+삼성서울병원으로부터 받은 조기 위암 예측을 위한 Whole-Slide-Image(WSI)로 부터 3개 Class (Tumor, MM, Lymphatics) Segmentation 및 림프 노드 전이 예측시 필요한 5가지 Guideline
+을 위한 이미지 처리 알고리즘 개발
 
 <br />
   
@@ -21,7 +22,6 @@
 <br />
 
 ### 4. 결과물 
-※논문 작성 예정   
 
 | Input | Output |
 |---|---|
