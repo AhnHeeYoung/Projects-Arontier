@@ -30,3 +30,7 @@
 | Input | Output |
 |---|---|
 |![doc/Input.PNG](./doc/Input.PNG)|![./doc/Output.PNG](./doc/Output.PNG)|
+
+:red_square: : Tumor
+:blue_square: : Lymphatics
+:green_square: : MM
