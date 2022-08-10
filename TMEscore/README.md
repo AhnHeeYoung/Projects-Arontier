@@ -1,98 +1,59 @@
-# TMEscore
-
-## Requirements
-
-TMEscore requires `Python 3.8` to run. Also you should have an access to this repository to install `TMEscore` package.
-
-## Installation
-
-TMEscore is protected by Arontier Proprietary License. 
-Only authorized users can access `TMEscore` package.
-If you are interested, please send an email to `hyahn@arontier.co`.
-
-Assuming you have an access to this repository,
-you can install `TMEscore` package by using pip:
-
-```bash
-pip install git+ssh://git@github.com/arontier/TMEscore.git   
-or   
-python setup.py develop
-```
-
-If you want to install a specific version:
-
-```bash
-pip install git+ssh://git@github.com/arontier/TMEscore.git@version
-```
-
-where `version` above is something like `0.0.1`, well a *version*.
-
-All package dependencies will be resolved automatically.
-If you stuck with SSH key business, please read [https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account](https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account) to register your SSH key to GitHub.
-
-## Quickstart
-
-### 1. Data, Model Preparation
-To test-drive, you will need an input H&E(Hematoxylin & Eosin) staining WSI(additionally annotated hotspot region)   
-and model files.   
-Model files are too big to upload here,   
-so you may want to request these files too when you ask for access to this repository.   
-
-Image format supported by `TMEscore` is: svs.   
-After installing `TMEscore`, make `input` directories and place your image file under `input` directory.   
-Put your 3 model weight files, say `CK.pth`, `LCA.pth`, `DESMIN.pth` in the `data/checkpoint/` directories.   
-Also, you can add hotspot annotation json file made by [QuPath program](https://qupath.github.io/)   
-For example, the folder structure should look like this:   
-
-```bash
-├── data
-│   ├── checkpoint
-│   │   ├── CK.pth
-│   │   ├── LCA.pth
-│   │   ├── DESMIN.pth
-├── TMEscore
-│   ├── input
-│   │   ├── sample.svs
-│   │   ├── sample.geojson
-
-``` 
+# Project Name : ICIscore (Immune Checkpoint Inhibitor score)
 
 <br />
 
-### 2. Inference
-For inference, we support `2 types of inference : WSI(Whole Slide Image) and Hotspot.`   
-For WSI inference, you need to prepare just input svs files.   
-For Hotspot inference, you need to prepare input image files(support only svs file) and corresponding json files.   
-
-#### 2-1. Using Library
-For example
-
-```python
-from TMEscore.test import main
-
-main(input_directory='Input',
-     output_directory='Output',
-     hotspot_prediction = None,
-     CK_model_file_path = 'data/checkpoint/CK.pth',
-     DESMIN_model_file_path = 'data/checkpoint/DESMIN.pth',
-     LCA_model_file_path = 'data/checkpoint/LCA.pth'):
-
-```
-
-※※ Here, if ```hotspot_prediction``` is set to None, WSI prediction will be done.   
-If ```hotspot_prediction``` is set to True and corresponding geojson file is in input_directory, Hotspot prediction will be done.   
-The name of svs, geojson file shoule be same.   
-(ex) sample.svs, sample.geojson)   
-
-
-#### 2-2. Using Binary
-Run the following command to run `TMEscore-test` for wsi test:
-
-```bash
-TMEscore-test --input_directory Input --output_directory Output --hotspot_prediction None --CK_model_file_path data/checkpoint/CK.pth --DESMIN_model_file_path data/checkpoint/DESMIN.pth --LCA_model_file_path data/checkpoint/LCA.pth
-```
+**0. 개요** : (주)아론티어의 정밀진단팀과 삼성서울병원이 전담하는 [PHD Project](https://github.com/AhnHeeYoung/Projects-Arontier/blob/master/ICIscore/doc/PHD.PNG) (Precision Histopathology Diagnosis Project) 중 하나의 sub project   
 
 <br />
+
+**1. 목적** : 삼성서울병원으로부터 받은 CD8, PD-L1 염색된 각각의 Whole-Slide-Image(WSI)로 부터 **Positive, Negative Cell Detection 알고리즘 개발, 환자에 대한 위험도(High&Low) 분류 성능 계산 및 식약처 인허가**     
+
+<br />
+  
+**2. 기간** : 2021.09 ~ ing
+
+<br />
+
+**3. 담당 업무** : 데이터 추출, 정제 및 알고리즘 연구 및 개발 전반 업무 담당  
+
+<br />
+
+**4. 결과물** :    
+※논문 작성 예정   
+
+#### 4-1. WSI
+
+| Input | Output |
+|---|---|
+|![doc/Input.PNG](./doc/Input.PNG)|![./doc/Output.PNG](./doc/Output.PNG)|   
+
+| Input(Enlargement) | Output(Enlargement) |
+|---|---|
+|![doc/Input_Enlargement.PNG](./doc/Input_Enlargement.PNG)|![./doc/Output_Enlargement.PNG](./doc/Output_Enlargement.PNG)|
+
+<br />
+<br />
+
+#### 4-2. Hotspot
+
+| Input | Output1 | Output2 |
+|---|---|---|
+|![doc/Input_Hotspot.PNG](./doc/Input_Hotspot.PNG)|![./doc/Hotspot_Output1.png](./doc/Hotspot_Output1.png)|![./doc/Hotspot_Output2.png](./doc/Hotspot_Output2.png)|
+
+<br />
+<br />
+
+#### 4-3. High & Low Prediction
+
+| AUC |
+|---|
+|![doc/auc.PNG](./doc/auc.PNG)|
+
+<br />
+<br />
+
+
+
 
 ### 3. Results
 
