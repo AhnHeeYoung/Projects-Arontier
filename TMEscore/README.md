@@ -21,43 +21,8 @@
 **4. 결과물** :    
 ※논문 작성 예정   
 
-#### 4-1. WSI
 
-| Input | Output |
-|---|---|
-|![doc/Input.PNG](./doc/Input.PNG)|![./doc/Output.PNG](./doc/Output.PNG)|   
-
-| Input(Enlargement) | Output(Enlargement) |
-|---|---|
-|![doc/Input_Enlargement.PNG](./doc/Input_Enlargement.PNG)|![./doc/Output_Enlargement.PNG](./doc/Output_Enlargement.PNG)|
-
-<br />
-<br />
-
-#### 4-2. Hotspot
-
-| Input | Output1 | Output2 |
-|---|---|---|
-|![doc/Input_Hotspot.PNG](./doc/Input_Hotspot.PNG)|![./doc/Hotspot_Output1.png](./doc/Hotspot_Output1.png)|![./doc/Hotspot_Output2.png](./doc/Hotspot_Output2.png)|
-
-<br />
-<br />
-
-#### 4-3. High & Low Prediction
-
-| AUC |
-|---|
-|![doc/auc.PNG](./doc/auc.PNG)|
-
-<br />
-<br />
-
-
-
-
-### 3. Results
-
-#### 3-1. WSI
+4-1. WSI
 
 
 | Input(HE) | Output |
@@ -74,7 +39,7 @@ The file name of output is as belows:
 Output : 'Stromal_TIL_0.3511_Intratumoral_TIL_0.1373_MIX.png'   
 ```
 
-#### 3-2. Hotspot
+#### 4-2. Hotspot
 | Input(HE) | Output | Output2 |
 |---|---|---|
 |![./doc/Input_Hotspot.PNG](./doc/Input_Hotspot.PNG)|![./doc/1x_TSR_0.8614_Stromal_TIL_0.2976_Intratumoral_TIL_0.0861.png](./doc/1x_TSR_0.8614_Stromal_TIL_0.2976_Intratumoral_TIL_0.0861.png)|![./doc/1x_TSR_0.9332_Stromal_TIL_0.2353_Intratumoral_TIL_0.0570.png](./doc/1x_TSR_0.9332_Stromal_TIL_0.2353_Intratumoral_TIL_0.0570.png)|
@@ -85,14 +50,3 @@ Output : 'Stromal_TIL_0.3511_Intratumoral_TIL_0.1373_MIX.png'
 Output : 'TSR_0.8614_Stromal_TIL_0.2976_Intratumoral_TIL_0.0861.png'   
 Output2 : 'TSR_0.9332_Stromal_TIL_0.2353_Intratumoral_TIL_0.0570.png'   
 ```
-
-<br />
-
-### 4. ETC
-#### 4-1. Inference Time, GPU Memory
-
-|  Sample  | Magnification | Width, Height | Batch size | GPU Memory (GB) | Processing Level | Processing Time |
-| :-------: | :-----------------: | :-----: | :------: | :----: | :-: | :------------: |
-|    [S12-32488_HE](./doc/S12-32488_HE.PNG) | 40x |   (10001, 10014)    |   8    | 8.15 | 4 |  3.5 minutes (1.5 m for inference, 2 m for postprocessing)  |
-|    [S12-32488_HE](./doc/S12-32488_HE.PNG) | 40x |   (10001, 10014)    |   8    | 8.15 | 1 |  7 minutes (4.3 m for inference,  m for postprocessing)  |
-
