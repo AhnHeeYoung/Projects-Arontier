@@ -6,7 +6,7 @@
 <br />
 
 ### 1. 목적
-삼성서울병원으로부터 받은 CD8, PD-L1 염색된 각각의 Whole-Slide-Image(WSI)로 부터 **Positive, Negative Cell Detection 알고리즘 개발, 환자에 대한 위험도(High&Low) 분류 성능 계산 및 식약처 인허가
+삼성서울병원으로부터 받은 CD8, PD-L1 염색된 각각의 Whole-Slide-Image(WSI)로 부터 **Positive, Negative Cell Detection 알고리즘 개발, 환자에 대한 위험도(High&Low) 분류 성능 계산 및 식약처 인허가**
 
 <br />
   
