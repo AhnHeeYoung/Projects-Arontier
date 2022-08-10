@@ -1,7 +1,8 @@
 # Project Name : ICIscore (Immune Checkpoint Inhibitor score)
 
 ### 0. 개요
-(주)Arontier의 정밀진단팀과 삼성서울병원(병리과 김경미 교수님)이 전담하는 [PHD Project](https://github.com/AhnHeeYoung/Projects-Arontier/blob/master/ICIscore/doc/PHD.PNG) (Precision Histopathology Diagnosis Project) 중 하나의 sub project   
+- (주)Arontier의 정밀진단팀과 삼성서울병원(병리과 김경미 교수님)이 전담하는   
+[PHD Project](https://github.com/AhnHeeYoung/Projects-Arontier/blob/master/ICIscore/doc/PHD.PNG) (Precision Histopathology Diagnosis Project) 중 하나의 sub project   
 
 
 <br />
