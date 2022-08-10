@@ -1,4 +1,4 @@
-# Project Name : ICIscore (Immune Checkpoint Inhibitor score)
+# Project Name : TMEscore (Tumor MicroEnvironment score)
 
 <br />
 
