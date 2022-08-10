@@ -4,9 +4,6 @@
 (주)아론티어의 정밀진단팀과 삼성서울병원이 전담하는 [PHD Project](https://github.com/AhnHeeYoung/Projects-Arontier/blob/master/ICIscore/doc/PHD.PNG) (Precision Histopathology Diagnosis Project) 중 하나의 sub project   
 
 
-<span style="color:red"> 글씨색 변경 </span>
-
-
 <br />
 
 ### 1. 목적
