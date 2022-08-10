@@ -17,7 +17,7 @@
 **4. 결과물** : 
 
 
-#### 3-1. WSI
+#### 4-1. WSI
 
 | Input | Output |
 |---|---|
@@ -30,7 +30,7 @@
 <br />
 <br />
 
-#### 3-2. Hotspot
+#### 4-2. Hotspot
 
 | Input | Output1 | Output2 |
 |---|---|---|
