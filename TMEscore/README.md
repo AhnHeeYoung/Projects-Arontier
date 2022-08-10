@@ -6,7 +6,7 @@
 <br />
 
 ### 1. 목적
-삼성서울병원으로부터 받은 CK, DESMIN, LCA 염색된 각각의 Whole-Slide-Image(WSI)로 부터 **Image Registration & GAN 을 이용한 WSI 생성 알고리즘 개발** , **TSR (Tumor Stroma Ratio) & TIL (Tumor infiltrating lymphocytes) 계측** 및 **환자에 대한 위험도(High & Low) 예측**
+삼성서울병원으로부터 받은 CK, DESMIN, LCA 염색된 각각의 Whole-Slide-Image(WSI)로 부터 **Image Registration & GAN 을 이용한 WSI 생성 알고리즘 개발** , **TSR (Tumor Stroma Ratio) & TIL (Tumor infiltrating lymphocytes) 계측** , **환자에 대한 위험도(High & Low) 예측** 및 식약처 인허가
 
 <br />
   
