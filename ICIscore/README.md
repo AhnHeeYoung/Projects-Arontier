@@ -26,7 +26,7 @@
 ※논문 작성 예정   
 
 
-#### 4-1. WSI
+#### 4-1. WSI (PD-L1)
 
 | Input | Output |
 |---|---|
@@ -39,7 +39,7 @@
 <br />
 <br />
 
-#### 4-2. Hotspot
+#### 4-2. Hotspot (PD-L1)
 
 | Input | Output1 | Output2 |
 |---|---|---|
