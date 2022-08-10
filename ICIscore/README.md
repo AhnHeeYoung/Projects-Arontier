@@ -41,7 +41,7 @@
 
 #### 4-3. High & Low Prediction
 
-| Input |
+| AUC |
 |---|
 |![doc/auc.PNG](./doc/auc.PNG)|
 
