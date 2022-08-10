@@ -1,24 +1,28 @@
 # Project Name : TMEscore (Tumor MicroEnvironment score)
 
 ### 0. 개요
-(주)Arontier의 정밀진단팀과 삼성서울병원(병리과 김경미 교수님)이 전담하는 [PHD Project](https://github.com/AhnHeeYoung/Projects-Arontier/blob/master/ICIscore/doc/PHD.PNG) (Precision Histopathology Diagnosis Project) 중 하나의 sub project   
+- (주)Arontier의 정밀진단팀과 삼성서울병원(병리과 김경미 교수님)이 전담하는   
+[PHD Project](https://github.com/AhnHeeYoung/Projects-Arontier/blob/master/ICIscore/doc/PHD.PNG) (Precision Histopathology Diagnosis Project) 중 하나의 sub project   
 
 <br />
 
 ### 1. 목적
-삼성서울병원으로부터 받은 CK, DESMIN, LCA 염색된 각각의 Whole-Slide-Image(WSI)로 부터   
-**Image Registration & GAN 을 이용한 WSI 생성 알고리즘 개발** 과 이를 통한   
-**TSR (Tumor Stroma Ratio) & TIL (Tumor infiltrating lymphocytes) 계측**  , **환자에 대한 위험도(High & Low) 예측** 및 **식약처 인허가**
+- 삼성서울병원으로부터 받은 CK, DESMIN, LCA 염색된 각각의 Whole-Slide-Image(WSI)로 부터 **Image Registration & GAN 을 이용한 WSI 생성 알고리즘 개발** 
+- 개발된 알고리즘을 이용한 **TSR (Tumor Stroma Ratio) & TIL (Tumor infiltrating lymphocytes) 계측**
+- 계측된 TSR, TIL 값을 이용한 **환자에 대한 위험도(High & Low) 예측**
+- 개발된 알고리즘의 **식약처 인허가**
 
 <br />
   
 ### 2. 기간
-2021.01 ~ ing
+- 2021.01 ~ ing
 
 <br />
 
 ### 3. 담당 업무
-**데이터 Annotation 관련 미팅, 데이터 추출, 정제, 알고리즘 연구 및 개발 전반 업무 담당**   
+- **데이터 Annotation 관련 미팅**
+- **데이터 추출, 정제, 알고리즘 연구 및 개발 전반 업무 담당**   
+- **식약처 인허용 소프트웨어 제작을 위한 알고리즘의 Software화 및 Docker Container 제작**   
 
 <br />
 
