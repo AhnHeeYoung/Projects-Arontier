@@ -48,6 +48,9 @@ The file name of output is as belows:
 Output : 'Stromal_TIL_0.3511_Intratumoral_TIL_0.1373_MIX.png'   
 ```
 
+<br />
+<br />
+
 #### 4-2. Hotspot Prediction
 | Input(HE) | Output | Output2 |
 |---|---|---|
@@ -59,6 +62,9 @@ Output : 'Stromal_TIL_0.3511_Intratumoral_TIL_0.1373_MIX.png'
 Output : 'TSR_0.8614_Stromal_TIL_0.2976_Intratumoral_TIL_0.0861.png'   
 Output2 : 'TSR_0.9332_Stromal_TIL_0.2353_Intratumoral_TIL_0.0570.png'   
 ```
+
+<br />
+<br />
 
 #### 4-3. High & Low Prediction Using TSR
 | High & Low Prediction Using TSR |
