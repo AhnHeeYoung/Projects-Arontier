@@ -47,7 +47,7 @@
 
 | Input | Output1 | Output2 |
 |---|---|---|
-|![doc/Input_Hotspot.PNG](./doc/Input_Hotspot.PNG)|![./doc/Hotspot_Output1.png](./doc/Hotspot_Output1.png)|![./doc/Hotspot_Output2.png](./doc/Hotspot_Output2.png)|
+|![doc/Input_Hotspot.PNG](./doc/Input_Hotspot.PNG)|![./doc/Downsample_1x_Hotspot1_Positive518_Negative771_PositiveRate0.4019.png](./doc/Downsample_1x_Hotspot1_Positive518_Negative771_PositiveRate0.4019.png)|![./doc/Downsample_1x_Hotspot2_Positive801_Negative1356_PositiveRate0.3713.png](./doc/Downsample_1x_Hotspot2_Positive801_Negative1356_PositiveRate0.3713.png)|
 
 <br />
 <br />
