@@ -27,6 +27,8 @@
 
 ### 4. 결과물 
 
+#### 4-1. WSI Prediction 
+
 | Input | Output |
 |---|---|
 |![doc/Input.PNG](./doc/Input.PNG)|![./doc/Output.PNG](./doc/Output.PNG)|
@@ -34,3 +36,12 @@
 :red_square: : Tumor
 :blue_square: : Lymphatics
 :green_square: : MM
+
+<br />
+<br />
+
+#### 4-2. Evaluation
+
+| Input |
+|---|
+|![doc/Dice.PNG](./doc/Dice.PNG)|
