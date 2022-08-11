@@ -40,7 +40,17 @@
 <br />
 <br />
 
-#### 4-2. Evaluation
+#### 4-2. 5 Guildline (5개 중 1개인 Tumor Length 계산)
+
+| Tumor Length Calculation |
+|---|
+|![doc/Tumor_Length.PNG](./doc/Tumor_Length.PNG)|
+
+
+<br />
+<br />
+
+#### 4-3. Evaluation
 
 | Evaluation |
 |---|
