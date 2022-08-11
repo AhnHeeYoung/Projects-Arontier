@@ -42,6 +42,6 @@
 
 #### 4-2. Evaluation
 
-| Input |
+| Evaluation |
 |---|
 |![doc/Dice.PNG](./doc/Dice.PNG)|
