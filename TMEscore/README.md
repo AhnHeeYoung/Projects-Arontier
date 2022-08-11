@@ -63,4 +63,4 @@ Output2 : 'TSR_0.9332_Stromal_TIL_0.2353_Intratumoral_TIL_0.0570.png'
 #### 4-3. High & Low Prediction Using TSR
 | High & Low Prediction Using TSR |
 |---|
-|![./doc/ROC For TSR.PNG](./doc/ROC For TSR.PNG)|
+|![./doc/AUC_TSR.PNG](./doc/AUC_TSR.PNG)|
