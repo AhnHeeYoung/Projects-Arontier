@@ -30,7 +30,9 @@
 ※논문 작성 예정   
 
 
-#### 4-1. Developed Algorithm (WSI Prediction)
+#### 4-1. Developed Algorithm
+
+#### 4-1-1. WSI Prediction
 
 | Input | Output |
 |---|---|
@@ -43,7 +45,7 @@
 <br />
 <br />
 
-#### 4-2. Developed Algorithm (Hotspot Prediction)
+#### 4-1-2. Hotspot Prediction
 
 | Input | Output1 | Output2 |
 |---|---|---|
@@ -52,7 +54,7 @@
 <br />
 <br />
 
-#### 4-3. Algorithm Evaluation
+#### 4-2. Algorithm Evaluation
 
 | Evaluation |
 |---|
@@ -62,7 +64,7 @@
 <br />
 
 
-#### 4-4. Patient High & Low Prediction
+#### 4-3. Patient High & Low Prediction
 
 | High & Low Prediction |
 |---|
