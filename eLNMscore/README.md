@@ -27,7 +27,7 @@
 
 ### 4. 결과물 
 
-#### 4-1. WSI Prediction 
+#### 4-1. Developed Algorithm (WSI Prediction)
 
 | Input | Output |
 |---|---|
