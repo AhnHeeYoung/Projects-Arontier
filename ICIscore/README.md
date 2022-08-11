@@ -31,7 +31,7 @@
 
 
 #### 4-1. WSI (PD-L1)
--
+
 | Input | Output |
 |---|---|
 |![doc/Input.PNG](./doc/Input.PNG)|![./doc/Output.PNG](./doc/Output.PNG)|   
