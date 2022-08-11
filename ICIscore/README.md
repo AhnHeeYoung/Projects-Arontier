@@ -52,7 +52,7 @@
 <br />
 <br />
 
-#### 4-3. Evaluation
+#### 4-3. Algorithm Evaluation
 
 | Evaluation |
 |---|
@@ -62,7 +62,7 @@
 <br />
 
 
-#### 4-4. High & Low Prediction
+#### 4-4. Patient High & Low Prediction
 
 | High & Low Prediction |
 |---|
