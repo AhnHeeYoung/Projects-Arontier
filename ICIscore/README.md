@@ -34,7 +34,7 @@
 
 | Input | Output |
 |---|---|
-|![doc/Input.PNG](./doc/Input.PNG)|![./doc/Output.PNG](./doc/Output.PNG)|   
+|![doc/Input.PNG](./doc/Input.PNG)|![./doc/Downsample_1x_Positive15035_Negative30320_PositiveRate0.3314.PNG](./doc/Downsample_1x_Positive15035_Negative30320_PositiveRate0.3314.PNG)|   
 
 | Input(Enlargement) | Output(Enlargement) |
 |---|---|
