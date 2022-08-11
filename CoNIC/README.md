@@ -18,13 +18,8 @@
 
 <br />
 
-### 3. 담당 업무
-- **Challenge Algorithm 개발**
-- **논문 작성**   
 
-<br />
-
-### 4. 결과물 
+### 3. 결과물 
 - **대회 전체 26팀 중 [6등](https://conic-challenge.grand-challenge.org/evaluation/segmentation-and-classification-final-test/leaderboard/)**
 - **학회 논문([pdf](https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Paper%20edited.pdf)) 게재**
 **(학회명 : International Symposium on Biomedical Imaging (ISBI) 2022 , 1st Author)**
