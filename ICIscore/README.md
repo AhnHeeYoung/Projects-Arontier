@@ -30,7 +30,7 @@
 ※논문 작성 예정   
 
 
-#### 4-1. WSI Prediction (PD-L1)
+#### 4-1. WSI Prediction (CD8)
 
 | Input | Output |
 |---|---|
@@ -43,7 +43,7 @@
 <br />
 <br />
 
-#### 4-2. Hotspot Prediction (PD-L1)
+#### 4-2. Hotspot Prediction (CD8)
 
 | Input | Output1 | Output2 |
 |---|---|---|
