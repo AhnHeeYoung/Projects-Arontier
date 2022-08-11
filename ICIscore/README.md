@@ -30,7 +30,7 @@
 ※논문 작성 예정   
 
 
-#### 4-1. WSI (PD-L1)
+#### 4-1. WSI Prediction Sample (PD-L1)
 
 | Input | Output |
 |---|---|
@@ -43,7 +43,7 @@
 <br />
 <br />
 
-#### 4-2. Hotspot (PD-L1)
+#### 4-2. Hotspot Prediction Sample (PD-L1)
 
 | Input | Output1 | Output2 |
 |---|---|---|
@@ -52,7 +52,17 @@
 <br />
 <br />
 
-#### 4-3. High & Low Prediction
+#### 4-3. Evaluation
+
+| AUC |
+|---|
+|![doc/Metrics.PNG](./doc/Metrics.PNG)|
+
+<br />
+<br />
+
+
+#### 4-4. High & Low Prediction
 
 | AUC |
 |---|
