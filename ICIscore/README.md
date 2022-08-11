@@ -30,7 +30,7 @@
 ※논문 작성 예정   
 
 
-#### 4-1. Cell Detection Algorithm (WSI Prediction)
+#### 4-1. Developed Algorithm (WSI Prediction)
 
 | Input | Output |
 |---|---|
@@ -43,7 +43,7 @@
 <br />
 <br />
 
-#### 4-2. Cell Detection Algorithm (Hotspot Prediction)
+#### 4-2. Developed Algorithm (Hotspot Prediction)
 
 | Input | Output1 | Output2 |
 |---|---|---|
