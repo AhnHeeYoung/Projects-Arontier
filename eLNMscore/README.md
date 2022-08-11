@@ -50,7 +50,7 @@
 <br />
 <br />
 
-#### 4-3. Evaluation
+#### 4-3. Algorithm Evaluation
 
 | Evaluation |
 |---|
