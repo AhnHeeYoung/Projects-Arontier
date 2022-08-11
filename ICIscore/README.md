@@ -30,7 +30,7 @@
 ※논문 작성 예정   
 
 
-#### 4-1. WSI Prediction (CD8)
+#### 4-1. Cell Detection Algorithm (WSI Prediction)
 
 | Input | Output |
 |---|---|
@@ -43,7 +43,7 @@
 <br />
 <br />
 
-#### 4-2. Hotspot Prediction (CD8)
+#### 4-2. Cell Detection Algorithm (Hotspot Prediction)
 
 | Input | Output1 | Output2 |
 |---|---|---|
