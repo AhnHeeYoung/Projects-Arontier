@@ -40,7 +40,7 @@
 <br />
 <br />
 
-#### 4-2. 5 Guildline (5개 중 1개인 Tumor Length 계산)
+#### 4-2. Image Processing Algorithm for 5 Guildline (5개 중 1개인 Tumor Length 계산)
 
 | Tumor Length Calculation |
 |---|
