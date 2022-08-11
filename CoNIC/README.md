@@ -29,6 +29,6 @@
 - **학회 논문([pdf](https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Paper%20edited.pdf)) 게재**
 **(학회명 : International Symposium on Biomedical Imaging (ISBI) 2022 , 1st Author)**
 
-| LeaderBoard | Paper |
+| Leaderboard | Paper |
 |---|---|
 |![doc/Leaderboard.PNG](./doc/Leaderboard.PNG)|![./doc/Paper.PNG](./doc/Paper.PNG)|   
