@@ -31,7 +31,7 @@
 ※논문 작성 예정   
 
 
-#### 4-1. WSI Prediction
+#### 4-1. Developed Algorithm (WSI Prediction)
 
 
 | Input(HE) | Output |
@@ -51,7 +51,7 @@ Output : 'Stromal_TIL_0.3511_Intratumoral_TIL_0.1373_MIX.png'
 <br />
 <br />
 
-#### 4-2. Hotspot Prediction
+#### 4-2. Developed Algorithm (Hotspot Prediction)
 | Input(HE) | Output | Output2 |
 |---|---|---|
 |![./doc/Input_Hotspot.PNG](./doc/Input_Hotspot.PNG)|![./doc/1x_TSR_0.8614_Stromal_TIL_0.2976_Intratumoral_TIL_0.0861.png](./doc/1x_TSR_0.8614_Stromal_TIL_0.2976_Intratumoral_TIL_0.0861.png)|![./doc/1x_TSR_0.9332_Stromal_TIL_0.2353_Intratumoral_TIL_0.0570.png](./doc/1x_TSR_0.9332_Stromal_TIL_0.2353_Intratumoral_TIL_0.0570.png)|
@@ -66,7 +66,7 @@ Output2 : 'TSR_0.9332_Stromal_TIL_0.2353_Intratumoral_TIL_0.0570.png'
 <br />
 <br />
 
-#### 4-3. High & Low Prediction Using TSR
+#### 4-3. Patient High & Low Prediction Using TSR
 ※TIL은 진행중
 | High & Low Prediction Using TSR |
 |---|
