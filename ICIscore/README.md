@@ -54,7 +54,7 @@
 
 #### 4-3. Evaluation
 
-| AUC |
+| Evaluation |
 |---|
 |![doc/Metrics.PNG](./doc/Metrics.PNG)|
 
@@ -64,7 +64,7 @@
 
 #### 4-4. High & Low Prediction
 
-| AUC |
+| High & Low Prediction |
 |---|
 |![doc/auc.PNG](./doc/auc.PNG)|
 
