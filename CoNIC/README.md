@@ -21,7 +21,7 @@
 
 ### 3. 결과물 
 - **대회 전체 26팀 중 [6등](https://conic-challenge.grand-challenge.org/evaluation/segmentation-and-classification-final-test/leaderboard/)**
-- **학회 논문([pdf](https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Class-Controlling_Copy-Paste_Augmentation_for_Nuclear_Segmentation.pdf), [link](https://ieeexplore.ieee.org/document/9854529)) 게재**
+- **학회 논문([pdf](https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Class-Controlling_Copy-Paste_Augmentation_for_Nuclear_Segmentation.pdf), [link](https://ieeexplore.ieee.org/document/9854529)) 게재**   
 **(학회명 : International Symposium on Biomedical Imaging (ISBI) 2022 , 1st Author)**
 
 | Leaderboard | Paper |
