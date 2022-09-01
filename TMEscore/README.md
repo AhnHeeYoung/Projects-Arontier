@@ -73,6 +73,8 @@ Output2 : 'TSR_0.9332_Stromal_TIL_0.2353_Intratumoral_TIL_0.0570.png'
 |---|
 |![./doc/AUC_TSR.PNG](./doc/AUC_TSR.PNG)|
 
+<br />
+<br />
 
 #### 4-3. Survival Analysis Using TSR
 ※TIL은 진행중
