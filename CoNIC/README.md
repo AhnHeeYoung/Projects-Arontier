@@ -9,7 +9,7 @@
 <br />
 
 ### 1. 목적
-- Cell Segmentation 알고리즘 개발을 위한 사전 경험으로서 [CoNIC Challenge 2022](https://conic-challenge.grand-challenge.org/) 참가
+- Cell Segmentation 알고리즘 개발을 위한 사전 경험으로서 [CoNIC Challenge 2022](https://conic-challenge.grand-challenge.org/) 참가 및 알고리즘 개발
 
 <br />
   
