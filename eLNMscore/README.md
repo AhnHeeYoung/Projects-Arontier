@@ -25,7 +25,7 @@
 
 <br />
 
-### 4. 결과물 
+### 4. 성과 
 
 #### 4-1. Developed Algorithm (WSI Prediction)
 
