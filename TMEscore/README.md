@@ -10,8 +10,7 @@
 - 삼성서울병원으로부터 받은 H&E (Hematoxylin & Eosin) 염색된 Whole-Slide-Image(WSI)로 부터   
 **Image Registration & GAN 을 이용한 CK (Cytokeratin), DESMIN (Muscle), LCA (Lymphocyte) 염색된 WSI 생성 알고리즘 개발**   
 - 개발된 알고리즘을 이용한 **TSR (Tumor Stroma Ratio) & TIL (Tumor infiltrating lymphocytes) 계측**
-- 계측된 TSR, TIL 값을 이용한 **환자에 대한 위험도(High & Low) 예측**
-- 계측된 TSR, TIL 변수 이용 **통계분석(생존분석)**
+- 계측된 TSR, TIL 값을 이용한 **환자의 위험도(High & Low) 예측 및 통계분석(생존분석)**
 - 개발된 알고리즘의 **식약처 인허가**
 
 <br />
