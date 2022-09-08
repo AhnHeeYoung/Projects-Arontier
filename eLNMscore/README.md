@@ -7,7 +7,7 @@
 <br />
 
 ### 1. 목적
-- 삼성서울병원으로부터 받은 조기 위암 예측을 위한 Whole-Slide-Image(WSI)로 부터   
+- 위암의 림프노드 전이 여부 예측을 위한 Whole-Slide-Image(WSI)로 부터의   
 **3개 Class (Tumor, MM, Lymphatics) Segmentation 알고리즘 개발**   
 - 개발된 알고리즘을 이용하여 **림프 노드 전이 예측시 필요한 5가지 Guideline 을 위한 이미지 처리 알고리즘 개발** 
 
