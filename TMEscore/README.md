@@ -35,9 +35,9 @@
 #### 4-1-1. WSI Prediction
 
 
-| Input(HE) | Output(MIX) | Output(CK) | Output(LCA) |
+| Input(HE) | Output(CK) | Output(LCA) | Output(MIX) |
 |---|---|---|---|
-|![./doc/Input.PNG](./doc/Input.PNG)|![./doc/Output.PNG](./doc/Output.PNG)|![./doc/CK.PNG](./doc/CK.PNG)|![./doc/LCA.PNG](./doc/LCA.PNG)|
+|![./doc/Input.PNG](./doc/Input.PNG)|![./doc/CK.PNG](./doc/CK.PNG)|![./doc/LCA.PNG](./doc/LCA.PNG)|![./doc/Output.PNG](./doc/Output.PNG)|
  
 :red_square: : Stroma
 :blue_square: : Tumor
