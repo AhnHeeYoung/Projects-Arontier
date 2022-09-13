@@ -37,7 +37,7 @@
 
 | Input(HE) | Output(CK) | Output(LCA) | Output(MIX) |
 |---|---|---|---|
-|![./doc/Input.PNG](./doc/Input.PNG)|![./doc/CK.PNG](./doc/CK.PNG)|![./doc/LCA.PNG](./doc/LCA.PNG)|![./doc/Output.PNG](./doc/Output.PNG)|
+|![./doc/Input.PNG](./doc/Input.PNG)|![./doc/CK.PNG](./doc/CK.PNG)|![./doc/LCA.PNG](./doc/LCA.PNG)|![./doc/1x_Stromal_TIL_0.3743_Intratumoral_TIL_0.0336_MIX.PNG](./doc/1x_Stromal_TIL_0.3743_Intratumoral_TIL_0.0336_MIX.PNG)|
  
 :red_square: : Stroma
 :blue_square: : Tumor
