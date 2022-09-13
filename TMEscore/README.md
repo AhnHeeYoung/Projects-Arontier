@@ -50,26 +50,6 @@ Output : 'Stromal_TIL_0.3511_Intratumoral_TIL_0.1373_MIX.png'
 ```
 
 
-
-| Input(HE) | Output |
-|---|---|
-|![./doc/Input.PNG](./doc/Input.PNG)|![./doc/Output.PNG](./doc/Output.PNG)|
- 
-:red_square: : Stroma
-:blue_square: : Tumor
-:yellow_square: : Lympocyte on Stroma
-:green_square: : Lympocyte on Tumor
-
-The file name of output is as belows:   
-```
-Output : 'Stromal_TIL_0.3511_Intratumoral_TIL_0.1373_MIX.png'   
-```
-
-
-
-
-
-
 <br />
 <br />
 
