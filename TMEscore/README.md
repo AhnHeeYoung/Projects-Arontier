@@ -36,7 +36,7 @@
 
 
 | Input(HE) | Output(MIX) | Output(CK) | Output(LCA) |
-|---|---|---|---|---|
+|---|---|---|---|
 |![./doc/Input.PNG](./doc/Input.PNG)|![./doc/Output.PNG](./doc/Output.PNG)|![./doc/CK.PNG](./doc/CK.PNG)|![./doc/LCA.PNG](./doc/LCA.PNG)|
  
 :red_square: : Stroma
