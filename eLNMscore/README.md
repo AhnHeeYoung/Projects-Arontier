@@ -1,4 +1,4 @@
-# Project Name : eLNMscore (early gastric cancer Lymph Node Metastasis score)
+# Project Name : 조기위암 림프절 전이 예측 알고리즘 고도화
 
 ### 0. 개요
 - (주)Arontier의 정밀진단팀과 삼성서울병원(병리과 김경미 교수님)이 전담하는   
