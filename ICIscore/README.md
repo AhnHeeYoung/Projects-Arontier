@@ -1,4 +1,4 @@
-# Project Name : ICIscore (Immune Checkpoint Inhibitor score)
+# Project Name : ICI 반응 예측 알고리즘 개발 (ICIscore : Immune Checkpoint Inhibitor score)
 
 ### 0. 개요
 - (주)Arontier의 정밀진단팀과 삼성서울병원(병리과 김경미 교수님)이 전담하는   
