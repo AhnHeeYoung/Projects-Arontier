@@ -6,7 +6,6 @@
 
 <br />
 
-``` dddd ```
 
 ### 1. 목적
 - 위암의 림프노드 전이 여부 예측을 위한 Whole-Slide-Image(WSI)로 부터의   
