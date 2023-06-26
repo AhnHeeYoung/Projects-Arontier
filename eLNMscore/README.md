@@ -3,8 +3,10 @@
 ### 0. 개요
 - (주)Arontier의 정밀진단팀과 삼성서울병원(병리과 김경미 교수님)이 전담하는   
 [PHD Project](https://github.com/AhnHeeYoung/Projects-Arontier/blob/master/ICIscore/doc/PHD.PNG) (Precision Histopathology Diagnosis Project) 중 하나의 sub project   
-d
+
 <br />
+
+``` dddd ```
 
 ### 1. 목적
 - 위암의 림프노드 전이 여부 예측을 위한 Whole-Slide-Image(WSI)로 부터의   
